@@ -1,4 +1,4 @@
-# Web Scraping and Sentiment Analysis for British Airways Reviews
+# Web Scraping and Sentiment Analysis for British Airways
 
 ## Description
 This project involves web scraping reviews of British Airways from a specific website using a Jupyter Notebook named `web_scrapper.ipynb`. Once the reviews are collected, further analysis is conducted in another Jupyter Notebook named `analysis.ipynb`, where sentiment analysis and other relevant analyses are performed on the collected reviews.
